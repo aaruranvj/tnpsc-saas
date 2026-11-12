@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "unit": "Unit 8: Tamil Society & Culture",
+    "question_ta": "திருக்குறளில் எத்தனை அதிகாரங்கள் உள்ளன?",
+    "question_en": "How many chapters (Adhikarams) are there in Thirukkural?",
+    "options_ta": ["130", "133", "108", "120"],
+    "options_en": ["130", "133", "108", "120"],
+    "answer_index": 1,
+    "explanation_ta": "திருக்குறளில் 133 அதிகாரங்களும், ஒவ்வொரு அதிகாரத்திற்கும் 10 குறள்கள் வீதம் மொத்தம் 1330 குறள்களும் உள்ளன.",
+    "explanation_en": "Thirukkural consists of 133 chapters, with 10 couplets each, totaling 1,330 couplets."
+  },
+  {
+    "id": 2,
+    "unit": "Unit 5: Indian Polity",
+    "question_ta": "இந்திய அரசியலமைப்பின் தந்தை என அழைக்கப்படுபவர் யார்?",
+    "question_en": "Who is known as the Father of the Indian Constitution?",
+    "options_ta": ["ஜவஹர்லால் நேரு", "மகாத்மா காந்தி", "டாக்டர் பி.ஆர். அம்பேத்கர்", "ராஜேந்திர பிரசாத்"],
+    "options_en": ["Jawaharlal Nehru", "Mahatma Gandhi", "Dr. B.R. Ambedkar", "Rajendra Prasad"],
+    "answer_index": 2,
+    "explanation_ta": "இந்திய அரசியலமைப்பு நிர்ணய சபையின் வரைவுக் குழுவின் (Drafting Committee) தலைவராகப் பணியாற்றிய டாக்டர் பி.ஆர். அம்பேத்கர் இதன் தந்தை என அழைக்கப்படுகிறார்.",
+    "explanation_en": "Dr. B.R. Ambedkar, who served as the Chairman of the Drafting Committee, is known as the Father of the Indian Constitution."
+  },
+  {
+    "id": 3,
+    "unit": "Unit 3: Geography of India",
+    "question_ta": "தமிழ்நாட்டில் மிக அதிக பரப்பளவில் காடுகளைக் கொண்ட மாவட்டம் எது?",
+    "question_en": "Which district in Tamil Nadu has the largest forest cover area?",
+    "options_ta": ["நீலகிரி", "தருமபுரி", "கோயம்புத்தூர்", "சேலம்"],
+    "options_en": ["Nilgiris", "Dharmapuri", "Coimbatore", "Salem"],
+    "answer_index": 1,
+    "explanation_ta": "தமிழ்நாட்டில் தருமபுரி மாவட்டம் அதிகப்படியான காடுகளைக் கொண்டு முதலிடத்தில் உள்ளது.",
+    "explanation_en": "Dharmapuri district has the largest forest cover area in Tamil Nadu."
+  }
+]
